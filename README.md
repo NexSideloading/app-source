@@ -1,2 +1,2 @@
-# app-source
-NexSideloading App Source
+# NexSideloading App Source
+Official App Source for NexSideloading
