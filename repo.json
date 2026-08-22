@@ -1,0 +1,106 @@
+{
+  "name": "NexSideloading App Source",
+  "identifier": "nexsideloading.app-source",
+  "description": "Official App Source for NexSideloading",
+  "iconURL": "https://sideloading.net/logo.png",
+  "headerURL": "https://sideloading.net/logo.png",
+  "website": "https://github.com/NexSideloading/app-source",
+  "apps": [
+    {
+      "name": "iRAM+",
+      "bundleIdentifier": "novadev.iram-plus",
+      "developerName": "NovaDev404",
+      "localizedDescription": "An app that allows you to enable Increased Memory Limit to your sideloaded apps directly on device.",
+      "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/iRAM-Plus.png",
+      "versions": [
+        {
+          "version": "1.2.0",
+          "date": "2026-08-04",
+          "localizedDescription": "An app that allows you to enable Increased Memory Limit to your sideloaded apps directly on device.",
+          "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/iRAM-Plus.ipa",
+          "size": 2846145
+        }
+      ]
+    },
+    {
+      "name": "MeloNX",
+      "bundleIdentifier": "com.stossy11.MeloNX",
+      "developerName": "Stossy11",
+      "localizedDescription": "An open-source Nintendo Switch emulator for iPhone and iPad. No jailbreak required.",
+      "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/MeloNX.png",
+      "versions": [
+        {
+          "version": "2.5",
+          "date": "2026-07-19",
+          "localizedDescription": "An open-source Nintendo Switch emulator for iPhone and iPad. No jailbreak required.",
+          "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/MeloNX.ipa",
+          "size": 48655413
+        }
+      ]
+    },
+    {
+      "name": "NexStore",
+      "bundleIdentifier": "com.novadev.nexstore",
+      "developerName": "NovaDev404",
+      "localizedDescription": "The best sideloading app for iOS!",
+      "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/NexStore.png",
+      "versions": [
+        {
+          "version": "1.1.1",
+          "date": "2026-07-25",
+          "localizedDescription": "The best sideloading app for iOS!",
+          "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/NexStore.ipa",
+          "size": 14126376
+        }
+      ]
+    },
+    {
+      "name": "Angel Aura Amethyst",
+      "bundleIdentifier": "org.angelauramc.amethyst",
+      "developerName": "AngelAuraMC",
+      "localizedDescription": "A Minecraft: Java Edition Launcher for iOS based on PojavLauncher.",
+      "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/Amethyst.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-08-10",
+          "localizedDescription": "Commit 9212a18. A Minecraft: Java Edition Launcher for iOS based on PojavLauncher.",
+          "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/org.angelauramc.amethyst-1.0-ios.ipa",
+          "size": 191971554
+        }
+      ]
+    },
+    {
+      "name": "SideInstaller",
+      "bundleIdentifier": "com.frizzle.sideinstaller",
+      "developerName": "FrizzleM",
+      "localizedDescription": "An app that installs SideStore and LiveContainer directly on your iPhone on iOS 27, fully on-device. No PC required.",
+      "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/SideInstaller.png",
+      "versions": [
+        {
+          "version": "0.9.0",
+          "date": "2026-08-07",
+          "localizedDescription": "An app that installs SideStore and LiveContainer directly on your iPhone on iOS 27, fully on-device. No PC required.",
+          "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/SideInstaller.ipa",
+          "size": 7908297
+        }
+      ]
+    },
+    {
+      "name": "StikDebug",
+      "bundleIdentifier": "com.stik.stikdebug",
+      "developerName": "StephenDev0",
+      "localizedDescription": "An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.",
+      "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/StikDebug.png",
+      "versions": [
+        {
+          "version": "3.1.9",
+          "date": "2026-08-02",
+          "localizedDescription": "An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.",
+          "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/StikDebug-3.1.9.ipa",
+          "size": 12822956
+        }
+      ]
+    }
+  ]
+}
