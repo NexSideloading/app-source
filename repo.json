@@ -101,6 +101,22 @@
           "size": 12822956
         }
       ]
+    },
+    {
+      "name": "The Blockheads",
+      "bundleIdentifier": "com.majicjungle.blockheads",
+      "developerName": "Majic Jungle Software",
+      "localizedDescription": "Explore, mine, craft and build in this giant and detailed sandbox game. Navigate huge simulated worlds thousands of blocks wide with a full temperature and climate system, seasons, an equator, and frozen poles. Explore complex cave systems and flowing water, and survive deserts and snowy mountain tops. Build, farm, find & craft your way to advanced technology including shops, steam trains, electricity, and more!",
+      "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/Blockheads.png",
+      "versions": [
+        {
+          "version": "1.7.4",
+          "date": "2019-06-14",
+          "localizedDescription": "Explore, mine, craft and build in this giant and detailed sandbox game. Navigate huge simulated worlds thousands of blocks wide with a full temperature and climate system, seasons, an equator, and frozen poles. Explore complex cave systems and flowing water, and survive deserts and snowy mountain tops. Build, farm, find & craft your way to advanced technology including shops, steam trains, electricity, and more!",
+          "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/Blockheads.ipa",
+          "size": 12822956
+        }
+      ]
     }
   ]
 }
