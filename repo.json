@@ -14,11 +14,11 @@
       "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/iRAM-Plus.png",
       "versions": [
         {
-          "version": "1.2.0",
-          "date": "2026-08-04",
+          "version": "1.3.0",
+          "date": "2026-09-13",
           "localizedDescription": "An app that allows you to enable Increased Memory Limit to your sideloaded apps directly on device.",
           "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/iRAM-Plus.ipa",
-          "size": 2846145
+          "size": 4556375
         }
       ]
     },
