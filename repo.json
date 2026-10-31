@@ -46,11 +46,11 @@
       "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/NexStore.png",
       "versions": [
         {
-          "version": "1.1.1",
-          "date": "2026-07-25",
+          "version": "1.2.0",
+          "date": "2026-10-31",
           "localizedDescription": "The best sideloading app for iOS!",
           "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/NexStore.ipa",
-          "size": 14126376
+          "size": 14975240
         }
       ]
     },
